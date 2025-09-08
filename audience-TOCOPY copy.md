@@ -43,22 +43,37 @@ Differences in content can include the extent of material included. For example,
 
 Reading to do: step-by-step for connecting a laptop to the systems in the landing
 * this would be a specific "do this, then do this, then do this."
+ * procedural, action-oriented
+ * no in-depth jargon
+ * audience
+  * Novice
+  * Professional
 
 Reading to learn: guide for how to use the privacy screens, liughts, sound systems, and screens to support a wellness event
 * this would focus on the different pieces of the space fitting into a bigger picture
+ * Style: perhaps more narrative styles,; more descriptive or definitional
+ * more commontary
 
 Reading to learn to do: how to use the space to host an event
 * this would be a version that keeps the even as the center focus, allowing for mroe curation of content and style depending on its use. This would be for more forward-facing documents that change in style depending on the event's formality and caliber
+ * what can the reader do next?
 
 ### Discussion 2 - Still Relevant?
 
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
 
 - Readers are information foragers
+Liking the foraging analogy for providing readers signs of the information they are looking for through content formatting (i.e. "this information is what you are looking for because it highlights it with _ heading, while this other one does not, and will "kill" your time)
+
+not much as changed with readers here, but the modes and mediums have, such as tablets, phones, widespread internet access, etc. 
 - Readers want information in isolated, portable chunks
+breaking up the information makes it more palatable for a reader to retain the information and maintain focus
 - Readers access and interpret information through the lens of communities
+discourse communities influencing beliefs and interpretation of data - fcebok groups, course peers, algorithm training on social media creating echo chambers and confirmation bias
 - Readers pull content rather than having it pushed on them
+not as true today with algoritm cultures on social media, also highlighted on how ChatGPT pushes information at a user without providing the source material outright
 - Readers use information to collaborate/cooperate with others
+More disjointed because more people can be involved. Example we talked about here was the stitch feature on tiktok and how people like Hank Green use that feature to science communicate to the masses. 
 
 ## E1. Understanding Audience
 
