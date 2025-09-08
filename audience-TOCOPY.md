@@ -3,17 +3,20 @@
 **Objectives**:
 
 1. Understand readers and tasks and how to accommodate both when writing technical content.
-2. Discuss differences between writing for completeness versus writing for concision, and its relationship with audience(s) and task(s).
-3. Examine examples of writing for different audiences and tasks to determine stylistic differences.
+2. Practice Github editorial workflow, as we do #1
 
 ## GitHub and VS Code
 
-**Demo**: GitHub basics (repos, branching, commits, pull requests, merging)
+Let's practice some GitHub basics (repos, branching, commits, pull requests, merging).
+
+Before we begin, COPY and PASTE a new version of this file. Replace `TOCOPY` with your `lastname`. For me, my file will be named `audience-lindgren.md`.
+
+As we work through this material about Redish, let's practice how to use git/Github to work with an editorial workflow.
 
 - [ ] Clone a repo in GitHub Desktop (including file location)
 - [ ] Fetching files from GitHub
 - [ ] Branching the repo
-- [ ] Staging, commenting, and pushing changes
+- [ ] Creating a pull request to discuss changes and push changes
 - [ ] Reviewing and merging changes in GitHub
 
 ## Carryover Discussion
