@@ -39,7 +39,30 @@ Redish (1989) – three types of readers with different purposes and that are ac
 
 How do you expect that texts accommodating these readers will differ either in content or style? What specific, observable differences would you expect?
 
-- I would expect the longest passages in "read to learn" texts, the shortest passages in "read to do" texts, and varied lengths in "read to learn to do" texts. 
+- I would expect the longest passages in "read to learn" texts, the shortest passages in "read to do" texts, and varied lengths in "read to learn to do" texts.
+
+#### R2D
+
+- Procedural and action-oriented
+- Quick, concise
+- No in-depth jargon
+- Audience:
+  - Novice
+  - Professional
+
+#### R2L
+
+- Style: Could use more narrative styles, more descriptive or definitional
+- More commentary
+- Based on the audience, consider analogies, metaphors, etc.
+- Provide examples, samples, etc.
+
+#### R2L2D
+
+- Procedural
+- Conceptual, analogies, examples, samples, and more
+  - Helps users see the "Why?"
+  - What can the user do next
 
 ### Discussion 2 - Still Relevant?
 
@@ -50,6 +73,8 @@ Do Redish's categories of readers still matter 30 years later? Why or why not? J
 - Readers access and interpret information through the lens of communities
 - Readers pull content rather than having it pushed on them
 - Readers use information to collaborate/cooperate with others
+
+We think "reading to learn to do" is even more relevant now. Perhaps because of her work, it seems like it is now the expectation that technical documents offer both immediately actionable procedures in concert with information that can aid in understanding the task and digging deeper.
 
 ## E1. Understanding Audience
 
@@ -75,21 +100,25 @@ Discuss the questions below for analysis and try to integrate the WTGA language 
 From another publication by Ginny Redish, she further characterizes what we need to know about audiences:
 
 “Readers decide how much attention to page to a document” (p. 15)
+
 - Readers only read as much as they need to read
 - Make sure they get what they want before leaving
 - Be sure of why you are writing to them
 
 “Readers use documents as tools” (p. 18)
+
 - Readers read in order to do something other than read
 - Readers want information quickly
 - Readers rely on tools/structures for access
 
 “Readers actively interpret as they read” (p. 22)
+
 - Readers bring their own needs, biases, and expectations
 - Readers are situated in their tasks
 - Understand these interpretations and shape them by addressing them
 
 “Readers interpret documents in light of their own knowledge and expectations” (p. 27)
+
 - Apply schema or rules for understanding the content
 - Plan ahead and provide your own explicit schema
 - Understand readers well enough to accommodate their schema (p.27)
