@@ -39,6 +39,10 @@ Redish (1989) – three types of readers with different purposes and that are ac
 
 How do you expect that texts accommodating these readers will differ either in content or style? What specific, observable differences would you expect?
 
+#### Differences in Style
+
+    Reading to do will generally be shorter in length. It will not contain long narrative passages or lengthy theoretical hypotheses these kind of texts are generally in reading to learn texts.
+
 ### Discussion 2 - Still Relevant?
 
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
