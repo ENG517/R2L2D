@@ -39,15 +39,49 @@ Redish (1989) – three types of readers with different purposes and that are ac
 
 How do you expect that texts accommodating these readers will differ either in content or style? What specific, observable differences would you expect?
 
+Read to do
+- Blunt, quick, concise.
+- Likely purely instructional with little extraneous information.
+- Few illustrative examples or scenarios
+- Addresses simple problem.
+- audience
+  - novice
+  - professional
+
+Read to learn
+- Style: perhaps more narrative
+- More commentary
+- Based on audience, analogies, metaphors.
+- Might be embedded in larger narrative.
+- Examples, samples
+- Could be more conceptual.
+- Might contain 
+
+Reading to learn to do
+- Instructional but also educational.
+- Can include relevant scenarios and examples
+  - Helps users the Why?
+  - What can user do next?
+- Procedural back.
+
 ### Discussion 2 - Still Relevant?
 
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
+Redish's piece seems to be more relevant than ever. Reading to do documents for the large part have seemingly been replaced with easily accessed instructional videos and Google overview. It seems the expectation for most audiences is now reading to learn to do documents.
 
 - Readers are information foragers
+  - 
 - Readers want information in isolated, portable chunks
+  - have portable chunks become smaller.
 - Readers access and interpret information through the lens of communities
 - Readers pull content rather than having it pushed on them
+  - genAI; social media; algorithmic feeds
+  - Sometimes creates need to decide if it's worth it.
 - Readers use information to collaborate/cooperate with others
+  - Distributed work
+  - 
+
+NOTES
 
 ## E1. Understanding Audience
 
