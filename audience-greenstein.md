@@ -47,8 +47,7 @@ How do you expect that texts accommodating these readers will differ either in c
 
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
 
-not much has changed
-mode has changed, maybe not the structure of the reader
+- modes of information delivery have changed, not the structure of the reader
 
 - Readers are information foragers
 - Readers want information in isolated, portable chunks
