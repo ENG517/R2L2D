@@ -7,6 +7,7 @@ Work on Redish Material
 1. Understand readers and tasks and how to accommodate both when writing technical content.
 2. Practice Github editorial workflow, as we do #1
 
+## GitHub and VS Code
 
 Let's practice some GitHub basics (repos, branching, commits, pull requests, merging).
 
@@ -41,16 +42,21 @@ Redish (1989) – three types of readers with different purposes and that are ac
 How do you expect that texts accommodating these readers will differ either in content or style? What specific, observable differences would you expect?
 
 #### **Read to do**
+
   - Step-by-step instructions with imperative verbs (*Click, Place, Press*)  
   - Minimal background/context  
   - Short, skimmable passages with visuals or numbered lists  
+  
 
 #### **Read to learn**
+
   - Explanations of *why* and *how* something works  
   - More detailed background and conceptual depth  
   - Longer, narrative passages with examples or elaborations  
 
+
 #### **Read to learn to do**
+
   - Blend of tasks + explanations (tutorials, guided practice)  
   - Realistic scenarios that motivate the action  
   - Short tasks embedded in narrative context  
@@ -62,9 +68,19 @@ Do Redish's categories of readers still matter 30 years later? Why or why not? J
 
 - Readers are information foragers
 - Readers want information in isolated, portable chunks
-- Readers access and interpret information through the lens of communities
+  - Has portable chunks become smaller?
+- Readers access and interpret information through the **lens of communities**
+  - How does your local group influence your way of interpreting and understanding
 - Readers pull content rather than having it pushed on them
+  - genAI; social media; algorithmic feeds
+  - Sometimes creates need to decide if its worth it?
 - Readers use information to collaborate/cooperate with others
+  - Distributed work
+
+NOTES
+
+- Not much has changed with readers, but the modes/mediums: phones, internet
+- The desir to skim; aggressively skim
 
 ## E1. Understanding Audience
 
