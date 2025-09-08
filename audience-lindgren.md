@@ -69,10 +69,21 @@ How do you expect that texts accommodating these readers will differ either in c
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
 
 - Readers are information foragers
+    -
 - Readers want information in isolated, portable chunks
-- Readers access and interpret information through the lens of communities
+    - Has portable chunks become smaller?
+- Readers access and interpret information through the **lens of communities**
+    - How does your local group influence your way of interpreting and understanding
 - Readers pull content rather than having it pushed on them
+    - genAI; social media; algorithmic feeds
+    - Sometimes creates need to decide if its worth it?
 - Readers use information to collaborate/cooperate with others
+    - Distributed work
+
+NOTES
+
+- Not much has changed with readers, but the modes/mediums: phones, internet
+- The desire to skim; aggressively skim
 
 ## E1. Understanding Audience
 
