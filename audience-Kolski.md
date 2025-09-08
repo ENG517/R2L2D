@@ -45,15 +45,45 @@ How do you expect that texts accommodating these readers will differ either in c
 
 * Reading to learn is reading to gain knowledge, but not necessarily take action. All context, few to no tasks, seeking a more in-depth understanding of the whys of a task or procedure. Longer writing, more paragraphs, can use more technical and in-depth language.
 
+#### R2D
+
+- Procedrual, duh?! Action-oriented
+- Quick, concise = little to no conceptual info
+- No in-dept jargon
+  - Novice
+  - Professional
+
+#### R2L
+
+ - Style: perhaps use more narrative styles; more descriptive or definitional
+ - More commentary
+ - Based on audience, consider analogies, metaphors, etc
+  - Provide examples, samples
+
+#### R2L2D
+
+   - Procedural's back!
+   - Conceptual, analogies, examples, samples, and more.
+     - Helps users see the 'why'
+     - What can the user do next?
+
 ### Discussion 2 - Still Relevant?
 
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
 
 - Readers are information foragers
+  - Yes, still true + good analogy. Highlights how you get the information, too: searching, finding, comparing to other sources (like comparing mushrooms.) Readers haven’t changed much, but the mode of receiving information has changed a lot. The purpose of the reading hasn’t changed, but the context of finding and interacting with the information is different. Readers skim and scan contend more aggressively than in prior years. There’s SO MUCH info out there, must determine whether something is even worth the time to read more quickly than before. Desire to skim has started to go from ‘aggressive skimming’ but now instead ask chatGPT and get an immediate answer rather than searching multiple websites
 - Readers want information in isolated, portable chunks
+  - Yes. Social media and video content has trended towards shorter and shorter content and chunks, and a lot of times those short videos and short form content are just single, standalone things. Shorter and shorter chunks of info and bits of videos, smaller and smaller chunks of information.
 - Readers access and interpret information through the lens of communities
+  - 1000%, ESPECIALLY with social media. Your community influences how you interpret and understand information and the wider world. Influences influence opinions on products and social issues, people side with personalities rather than do their own research, facebook groups and subreddits, social media algorithms direct info to you that it thinks you want to see and participate in, confirmation bias. Content and information “wants” to be viewed and read. Platforms push content to drive engagement and interaction.
+  - Distributed work/remote work, and how that influences collaboration.
+  - Can choose not to use an app, but if you use an app you can’t choose how it runs, how its algorithm works, or what communities it ends up showing you or pushing you into
 - Readers pull content rather than having it pushed on them
+  - Now it’s pushed via algorithms, and then people might choose to then dive deeper into a topic that was pushed on/provided to them. Good example TikTok, Spotify/YoutubeMusic making playlists for you
+  - Pushed content creates communities/pushes people into communities and further shapes their world and views. Using an algorithm shapes it and makes it work better to put you in a certain community/part of the algorithm ecosystem. – Swell entertainment: likes Formula 1, algorithms keep trying to push gun and alt-right content on her because gun nuts and alt-right wackos like F1.
 - Readers use information to collaborate/cooperate with others
+  - Depends. There are forums and conversational comment sections, reddit problem-solving threads. TikTok dance and music stitches = collaboration. 
 
 ## E1. Understanding Audience
 
