@@ -42,10 +42,13 @@ How do you expect that texts accommodating these readers will differ either in c
 Differences in content can include the extent of material included. For example, the background within staging moves may have a smaller scope to focus on vs. a reading to learn document. Reading to learn to do seems to be more comprehensive. In the context of my project, I would see them as the following:
 
 Reading to do: step-by-step for connecting a laptop to the systems in the landing
+* this would be a specific "do this, then do this, then do this."
 
 Reading to learn: guide for how to use the privacy screens, liughts, sound systems, and screens to support a wellness event
+* this would focus on the different pieces of the space fitting into a bigger picture
 
 Reading to learn to do: how to use the space to host an event
+* this would be a version that keeps the even as the center focus, allowing for mroe curation of content and style depending on its use. This would be for more forward-facing documents that change in style depending on the event's formality and caliber
 
 ### Discussion 2 - Still Relevant?
 
