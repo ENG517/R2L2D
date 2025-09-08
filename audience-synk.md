@@ -48,10 +48,26 @@ How do you expect that texts accommodating these readers will differ either in c
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
 
 - Readers are information foragers
+
+    - still true: readers are still information foragers; still true in current times of web searching
+
 - Readers want information in isolated, portable chunks
+
+    - Yes. Ex: social media has trended toward shorter forms
+
 - Readers access and interpret information through the lens of communities
+
+    - Yes. Influencer culture on social media
+    - Social media algorithms direct the information towards you 
+    that it thinks you want to see > creates echo chambers
+
 - Readers pull content rather than having it pushed on them
+
+    - Can be true, but delivery of info via social media and ChatGPT, music (Spotfy), is more of a process of pushing toward user, rather than the user selecting it.
+
 - Readers use information to collaborate/cooperate with others
+
+    - Yes > stitching function/dance trends on TikTok.
 
 ## E1. Understanding Audience
 
