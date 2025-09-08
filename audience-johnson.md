@@ -40,6 +40,12 @@ Redish (1989) – three types of readers with different purposes and that are ac
 
 How do you expect that texts accommodating these readers will differ either in content or style? What specific, observable differences would you expect?
 
+* I think texts accommodating "read to do" readers will be very quick, concise, and minimalistic. The style will likely be very generic, minimal, and to the point, as these readers are only interested in finding relevant information and resolving their problem quickly. I also think the content will be trimmed of all fat; if it isn't absolutely essential to the task at hand, it won't be included. Good point from Deanna --- no jargon unless it fits the audience. Tailoring language to the audience's precise needs to fit the sense of urgency. 
+
+* I think texts accommodating "read to learn" readers are the most likely of the three to be longer, slower-paced, and more in-depth. They'll also probably have the most style in terms of their writing, and will likely include content that isn't always relevant to the task at hand. The goal is to immerse yourself in a topic and learn it; it's often a languid deep dive. These readers don't have the same urgency as the previous readers. 
+
+* I think texts accommodating "read to learn to do" readers will need to find a middle ground between the previous two types. This type of text will likely still have the longer passages and occasional irrelevant inclusions of "read to learn" texts, but will be task-oriented like "read to do" texts and may have a similarly generic and minimalist style as well. The goal is for the reader to both learn from the text and do something as a result of the text, and this requires a combination of the previous two text types. 
+
 ### Discussion 2 - Still Relevant?
 
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
