@@ -50,6 +50,9 @@ How do you expect that texts accommodating these readers will differ either in c
 
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
 
+NOTES: These categories are still relevant and haven't changed much, other than how often they happen. It's much easier to read to learn now because those tools are at your fingertips through phones and laptops. Readers haven't changed, but the way they access information has. The fourth one has changed a little because we're now seeing content pushed on us all the time through social media and the internet, but I argue that the virtue of text is that it can't really be "pushed" on you when it comes down to it - you choose whether to read or not. 
+  ADDITIONS FROM CLASSMATES: Change in modes/mediums (i.e. devices), desire to skim everything and not read it in-depth
+
 - Readers are information foragers
 - Readers want information in isolated, portable chunks
 - Readers access and interpret information through the lens of communities
