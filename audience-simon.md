@@ -46,15 +46,29 @@ reader to do - will want quick answers to their inquiry. plenty of blank space a
 reader to learn - will want content that dives deeper into explanation so that they can understand the why of the content. They would benefit from references to subgoals and goals so that they can keep up with the information in a way where they identify that the information is useful and relevant.
 reader to learn to do - would benefit from procedures with clearly marked visual elements. Ordered lists would help guide them to doing and learning each task. A step-by-step process will help for later recall.
 
+reading to do - procedural, action-oriented, quick and concise, no in-depth jargon, audience: novice(just want an answer), professional (they don't need explanations of the jargon)
+reading to learn - style: perhaps uses more narrative styles, more descriptive or definitional to help with recall; more commentary; based on audience, consider, analogies, metaphors, comparisons; provide examples, samples, etc.
+reading to learn to do - procedural! conceptual, analogies, examples, samples, and more. (helps users see the "why", what can user do next?)
+
 ### Discussion 2 - Still Relevant?
 
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
 
 - Readers are information foragers
+    highlights how you give the information
+    being able to give those cues to a readers
+
 - Readers want information in isolated, portable chunks
+    social media trends have shown that people want information in shorter and shorter chunks
+
 - Readers access and interpret information through the lens of communities
+    yes, social media, a lot of people base their knowledge off of what people that matter to them say (people want to be accepted/validated)
+
 - Readers pull content rather than having it pushed on them
+    push and pull. More content is pushed to us than ever on social media and stuff, and then we learn a bunch of information that we did not seek, and then our curiosity leads us to search for more answers. It's push and then pull
+
 - Readers use information to collaborate/cooperate with others
+    in social media help make content to that is influenced through others, they comment on information that they find and collaborate in community chats, etc.
 
 ## E1. Understanding Audience
 
