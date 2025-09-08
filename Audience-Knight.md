@@ -71,6 +71,7 @@ Do Redish's categories of readers still matter 30 years later? Why or why not? J
 - Readers are information foragers
 - Readers want information in isolated, portable chunks
 - Readers access and interpret information through the lens of communities
+  - Nature documentaries are interpreted differently depending on the subject, i.e. a shark eating a dolphin in a shark documentary is awesome, but in a dolphin documentary it would be scary.
 - Readers pull content rather than having it pushed on them
 - Readers use information to collaborate/cooperate with others
 
