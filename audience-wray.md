@@ -48,10 +48,15 @@ How do you expect that texts accommodating these readers will differ either in c
 Do Redish's categories of readers still matter 30 years later? Why or why not? Jot down some notes.
 
 - Readers are information foragers
+ - Still applicable. Everyone has access to information at their fingertips with modern technology, and people are consistently searching out information.
 - Readers want information in isolated, portable chunks
+ - Still applicable. Information is so easily accessed, readers often skim and quickly consume isolated, portable information.
 - Readers access and interpret information through the lens of communities
+ - Mostly applicable, depending on the definition of communitie. While the search for information today is mostly isolated, it is often accessed and interpreted through organizational communities, whether that be through companies, professional organizations, etc.
 - Readers pull content rather than having it pushed on them
+ - Mostly still applicable. With social media and search engines, both are happening equally.
 - Readers use information to collaborate/cooperate with others
+ - Still applicable. Readers are constantly using procedures and information to collaborate in the workplace, in school projects, etc.
 
 ## E1. Understanding Audience
 
