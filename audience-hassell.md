@@ -53,6 +53,8 @@ Do Redish's categories of readers still matter 30 years later? Why or why not? J
 - Readers pull content rather than having it pushed on them
 - Readers use information to collaborate/cooperate with others
 
+I don't think much has really changed about readers, just the way they access information (with the internet).
+
 ## E1. Understanding Audience
 
 ### E1.1 - Read some user doc excerpts
