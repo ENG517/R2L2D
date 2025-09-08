@@ -41,9 +41,28 @@ Redish (1989) – three types of readers with different purposes and that are ac
 
 How do you expect that texts accommodating these readers will differ either in content or style? What specific, observable differences would you expect?
 
-- **R2D**:
-- **R2L**:
-- **R2L2D**:
+#### R2D
+
+- Procedural, duh?! Action-oriented
+- Quick, concise - little to no conceptual info
+- No in-depth jargon
+- Audience:
+    - Novice
+    - Professional
+
+#### R2L
+
+- Style: perhaps use more narrative styles; more descriptive or definitional
+- More commentary
+- Based on audience, consider analogies, metaphors, etc.
+- Provide examples, samples, etc.
+
+#### R2L2D
+
+- Procedural back!
+- Conceptual, analogies, examples, samples, and more.
+    - Helps users see the "Why?!"
+    - What can user do next?!
 
 ### Discussion 2 - Still Relevant?
 
